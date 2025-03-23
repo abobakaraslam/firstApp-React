@@ -43,6 +43,6 @@ http://localhost:
 
 Follow any of below methods to view the output
 
-    Method 1. Copy the complete URL obtained in previous step, paste in any browser's address section and hit enter.
+Method 1. Copy the complete URL obtained in previous step, paste in any browser's address section and hit enter.
 
-    Method 2. ctrl+click on the URL
+Method 2. ctrl+click on the URL
