@@ -7,9 +7,9 @@ b. click on "Download ZIP"
 
 ## Step 2; Extracting the code files
 
-a. Click on downloaded file. It will compressed file
-b. right click on the file and click on "Extract here".
-c. Now, a folder will be created by same name as of downloaded file. But it will not be compressed. We used this folder in next step.
+    a. Click on downloaded file. It will compressed file
+    b. right click on the file and click on "Extract here".
+    c. Now, a folder will be created by same name as of downloaded file. But it will not be compressed. We used this folder in next step.
 
 ## Step 3; Open with VS Code
 
