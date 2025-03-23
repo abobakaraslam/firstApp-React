@@ -35,9 +35,7 @@ npm run dev
 
 c. A URL will be given if above command run successfully. the command will be run only if there is no error in the code. The URL will be like as below
 
-```
-http://localhost:
-```
+**http://localhost:**
 
 ## Step 6; View the output
 
